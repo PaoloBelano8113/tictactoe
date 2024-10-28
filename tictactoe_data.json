@@ -1,0 +1,12 @@
+[
+    "[{'moves': [('minimax', 'x', (0, 0)), ('toetactic', 'o', (1, 1)), ('minimax', 'x', (0, 1)), ('toetactic', 'o', (1, 0)), ('minimax', 'x', (0, 2))], 'result': 'minimax'}]",
+    "[{'moves': [('alpha', 'x', (0, 0)), ('toetactic', 'o', (1, 1)), ('alpha', 'x', (0, 1)), ('toetactic', 'o', (1, 0)), ('alpha', 'x', (0, 2))], 'result': 'alpha'}]",
+    "[{'moves': [('minimax', 'x', (0, 0)), ('toetactic', 'o', (1, 1)), ('minimax', 'x', (0, 1)), ('toetactic', 'o', (1, 0)), ('minimax', 'x', (0, 2))], 'result': 'minimax'}]",
+    "[{'moves': [('alpha', 'x', (0, 0)), ('toetactic', 'o', (1, 1)), ('alpha', 'x', (0, 1)), ('toetactic', 'o', (1, 0)), ('alpha', 'x', (0, 2))], 'result': 'alpha'}]",
+    "[{'moves': [('alpha', 'x', (0, 0)), ('toetactic', 'o', (1, 1)), ('alpha', 'x', (0, 1)), ('toetactic', 'o', (1, 0)), ('alpha', 'x', (0, 2))], 'result': 'alpha'}]",
+    "[{'moves': [('minimax', 'x', (0, 0)), ('toetactic', 'o', (1, 1)), ('minimax', 'x', (0, 1)), ('toetactic', 'o', (1, 0)), ('minimax', 'x', (0, 2))], 'result': 'minimax'}]",
+    "[{'moves': [('minimax', 'x', (0, 0)), ('toetactic', 'o', (1, 1)), ('minimax', 'x', (0, 1)), ('toetactic', 'o', (1, 0)), ('minimax', 'x', (0, 2))], 'result': 'minimax'}]",
+    "[{'moves': [('minimax', 'x', (0, 0)), ('toetactic', 'o', (1, 1)), ('minimax', 'x', (0, 1)), ('toetactic', 'o', (1, 0)), ('minimax', 'x', (0, 2))], 'result': 'minimax'}]",
+    "[{'moves': [('minimax', 'x', (0, 0)), ('toetactic', 'o', (1, 1)), ('minimax', 'x', (0, 1)), ('toetactic', 'o', (1, 0)), ('minimax', 'x', (0, 2))], 'result': 'minimax'}]",
+    "[{'moves': [('alpha', 'x', (0, 0)), ('toetactic', 'o', (1, 1)), ('alpha', 'x', (0, 1)), ('toetactic', 'o', (1, 0)), ('alpha', 'x', (0, 2))], 'result': 'alpha'}]"
+]
